@@ -1,4 +1,4 @@
 # Grader
-This folder is contain grader excercise with describe comment
+This folder is contain grader excercise
 
-If you want to use file to submit your assignment please remove describe comment behind the code
+If you want to use file to submit your assignment please make some change
